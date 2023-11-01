@@ -1,0 +1,15 @@
+C:\Users\gehad\Desktop\New folder (2)\CG\CG\bin\Debug\net6.0\CG.exe
+C:\Users\gehad\Desktop\New folder (2)\CG\CG\bin\Debug\net6.0\CG.deps.json
+C:\Users\gehad\Desktop\New folder (2)\CG\CG\bin\Debug\net6.0\CG.runtimeconfig.json
+C:\Users\gehad\Desktop\New folder (2)\CG\CG\bin\Debug\net6.0\CG.dll
+C:\Users\gehad\Desktop\New folder (2)\CG\CG\bin\Debug\net6.0\CG.pdb
+C:\Users\gehad\Desktop\New folder (2)\CG\CG\obj\Debug\net6.0\CG.csproj.AssemblyReference.cache
+C:\Users\gehad\Desktop\New folder (2)\CG\CG\obj\Debug\net6.0\CG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gehad\Desktop\New folder (2)\CG\CG\obj\Debug\net6.0\CG.AssemblyInfoInputs.cache
+C:\Users\gehad\Desktop\New folder (2)\CG\CG\obj\Debug\net6.0\CG.AssemblyInfo.cs
+C:\Users\gehad\Desktop\New folder (2)\CG\CG\obj\Debug\net6.0\CG.csproj.CoreCompileInputs.cache
+C:\Users\gehad\Desktop\New folder (2)\CG\CG\obj\Debug\net6.0\CG.dll
+C:\Users\gehad\Desktop\New folder (2)\CG\CG\obj\Debug\net6.0\refint\CG.dll
+C:\Users\gehad\Desktop\New folder (2)\CG\CG\obj\Debug\net6.0\CG.pdb
+C:\Users\gehad\Desktop\New folder (2)\CG\CG\obj\Debug\net6.0\CG.genruntimeconfig.cache
+C:\Users\gehad\Desktop\New folder (2)\CG\CG\obj\Debug\net6.0\ref\CG.dll
